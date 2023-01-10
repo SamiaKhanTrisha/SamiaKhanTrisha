@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi ! I'm Samia Khan Trisha 👋
 ###### Hi there 👋
 
 **SamiaKhanTrisha/SamiaKhanTrisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
