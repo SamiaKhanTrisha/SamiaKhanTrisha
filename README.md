@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C++...
-- 💬 Ask me about ...
 - 📫 How to reach me: samia.trisha@northsouth.edu
 - 😄 Pronouns: she
 - ⚡ Fun fact: I love travelling
